@@ -1,0 +1,27 @@
+body {
+    background-color: aliceblue;
+}
+h1 {
+    color: black;
+    font-style: normal;
+    font-weight: bolder;
+}
+h3 {
+    color: rgb(2, 2, 48);
+    font-weight: bold;
+}
+ul>li {
+    font-style: normal;
+}
+p {
+    width: 90%;
+    height: 100%;
+    text-align: center;
+}
+strong {
+    font-style: italic;
+}
+em {
+    font-weight: bold;
+}
+
